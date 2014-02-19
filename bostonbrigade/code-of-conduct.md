@@ -3,7 +3,7 @@ layout: coc
 organization: Code for Boston (Boston Brigade of Code for America)
 date announced: Feb 17 2014
 date archived: 
-url: https://github.com/codeforboston/admin/code-of-conduct.md
+url: https://github.com/codeforboston/admin/blob/master/code-of-conduct.md
 credited parents: Geek Feminism
 
 ---
@@ -16,8 +16,7 @@ Short public version
 
 Code for Boston is dedicated to a supportive harassment-free experience for everyone. Our anti-harassment policy can be found at:
 
-https://github.com/codeforboston/admin/code-of-conduct.md
-
+https://github.com/codeforboston/admin/blob/master/code-of-conduct.md
 
 
 Medium public version
@@ -28,7 +27,7 @@ We do not tolerate harassment of participants in any form. Sexual language and i
 
 Participants violating these rules may be sanctioned or expelled from any Code for Boston event at the discretion of the Brigade organizers and event facilitators. Our anti-harassment policy can be found at:
 
-https://github.com/codeforboston/admin/code-of-conduct.md
+https://github.com/codeforboston/admin/blob/master/code-of-conduct.md
 
 
 
